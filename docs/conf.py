@@ -24,6 +24,9 @@ author = 'Chase'
 
 # -- General configuration ---------------------------------------------------
 
+# Make sure it knows the master file is called index
+master_doc = 'index'
+
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
