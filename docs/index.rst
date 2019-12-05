@@ -6,6 +6,8 @@ Welcome to transcripty's documentation!
    :maxdepth: 3
    :caption: Contents:
 
+   source
+
 
 Indices and tables
 ==================
