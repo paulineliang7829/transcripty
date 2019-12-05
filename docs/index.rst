@@ -6,7 +6,10 @@ Welcome to transcripty's documentation!
    :maxdepth: 3
    :caption: Contents:
 
-   source
+   source/modules
+   source/transcripty
+   source/transcripty.data
+   source/transcripty.probabilitymodels
 
 
 Indices and tables
