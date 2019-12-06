@@ -58,5 +58,5 @@ class HeterogeneousProbabilityModel(CreditAccumulationModel):
         num = 1 - self.gamma_min
         den = 1 + self.gamma_1 * np.exp(-self.gamma_2 * a)
 
-        return np.clip(num / den, 0.0, 1.0)
+        return np.clip(self.gamma_min + num / den, 0.0, 1.0)
 

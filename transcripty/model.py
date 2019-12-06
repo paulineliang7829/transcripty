@@ -1,6 +1,9 @@
 import numpy as np
 
+from numba import jit
 
+
+@jit(nopython=True)
 def _inner_binom_simulate(
         p_i, credits, ncoursesattempted, ncreditspercourse, ncreditsgrad
     ):

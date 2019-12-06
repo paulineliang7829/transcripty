@@ -1,3 +1,3 @@
-from .calibration import calibrateHPM
+from .calibration import calibrateCPM, calibrateHPM
 from .targets import CalibrationTargets, CT
 
