@@ -12,18 +12,18 @@ Subpackages
 Submodules
 ----------
 
-transcripty.calibrate module
-----------------------------
-
-.. automodule:: transcripty.calibrate
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 transcripty.model module
 ------------------------
 
 .. automodule:: transcripty.model
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+transcripty.version module
+--------------------------
+
+.. automodule:: transcripty.version
    :members:
    :undoc-members:
    :show-inheritance:
