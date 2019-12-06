@@ -6,9 +6,13 @@ build/*
 dist/*
 _configtest.o.d
 *~
+*.egg-info
+*/version.py
+
 
 # Python doc stuff
 docs/_build
+
 
 # LaTeX utility files
 *.aux
